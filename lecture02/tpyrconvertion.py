@@ -1,0 +1,16 @@
+age = 25
+height = float(age)
+print('height:',height)
+
+height = 5.9
+age = int(height)
+print('age:', age)
+
+num_str = '123'
+num_str = int(num_str)
+print('number is int', num_str)
+
+
+
+
+
